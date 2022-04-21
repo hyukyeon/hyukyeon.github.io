@@ -29,8 +29,12 @@ a {
   color: #ff0096;
 }
 
+#d {
+  color: #bfbfbf;
+}
+
 #k {
-  animation: change 1s;
+  animation: change 0.5s;
 }
 
 #op {
